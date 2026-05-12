@@ -151,32 +151,7 @@ Determinar quins ports estan oberts en els dispositius crítics (router i servid
 
 ---
 
-## 10. Avaluació segons la rúbrica
 
-| Criteri | Puntuació |
-|---------|-----------|
-| Exploració netdiscover mode actiu | 1 (parcial) |
-| Exploració netdiscover mode passiu | 1 (parcial) |
-| Explicació de diferències de resultats | 2 (correcta) |
-| Exploració mitjançant Nmap | 2 (correcta) |
-| Detecció ports router i servidor | 2 (correcta) |
-| Presentació (format, correcció) | 1 (algun defecte menor) |
-| **Total** | **9/12** |
 
-**Nota orientativa:** 7,5 sobre 10 (Notable baix)
 
----
-
-## 11. Conclusions
-
-S’han complert tots els objectius de l’activitat:
-
-- Exploració activa i passiva amb **Netdiscover**.
-- Comparació detallada dels dos modes.
-- Descobriment d’hosts amb **Nmap** (`-sn`).
-- Detecció de ports i sistema operatiu en el router i el servidor mitjançant `-O -sV`.
-
-Els resultats obtinguts reflecteixen una xarxa amb dispositius virtualitzats i una configuració de tallafocs restrictiva (ports tancats). La tasca està **completa i correctament documentada**, apta per al lliurament.
-
---- 
 
